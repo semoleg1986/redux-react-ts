@@ -1,0 +1,12 @@
+.box {
+    border: 2px solid black;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.box h1{
+    text-align: center;
+}
+button {
+    width: 100px;
+}
